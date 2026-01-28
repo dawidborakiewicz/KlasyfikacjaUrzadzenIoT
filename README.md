@@ -1,2 +1,2 @@
 # KlasyfikacjaUrzadzenIoT
-SYSTEM KLASYFIKACJI URZĄDZEŃ Z WYKORZYSTANIEM UCZENIA MASZYNOWEGO NA PODSTAWIE ANALIZY RUCHU SIECIOWEGO
+System klasyfikacji urządzeń z wykorzystaniem uczenia maszynowego na podstawie analizy ruchu sieciowego
