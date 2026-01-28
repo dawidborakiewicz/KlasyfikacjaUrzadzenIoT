@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/SVCTraining/__init__.py
+src/SVCTraining.egg-info/PKG-INFO
+src/SVCTraining.egg-info/SOURCES.txt
+src/SVCTraining.egg-info/dependency_links.txt
+src/SVCTraining.egg-info/top_level.txt
+src/SVCTraining/HyperparameterTuner/HyperparameterTuner.py
+src/SVCTraining/HyperparameterTuner/__init__.py
+src/SVCTraining/ModelEvaluator/ModelEvaluator.py
+src/SVCTraining/ModelEvaluator/__init__.py
+src/SVCTraining/SVCTrainer/SvcTrainer.py
+src/SVCTraining/SVCTrainer/__init__.py
+src/SVCTraining/TrainTestValSplit/TrainTestValSplit.py
+src/SVCTraining/TrainTestValSplit/__init__.py
+src/SVCTraining/TrainingPipeline/SVC_Training.py
+src/SVCTraining/TrainingPipeline/__init__.py

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: inference_pipline
+Version: 0.1.1
+Summary: Pipline for device inference with ML
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
