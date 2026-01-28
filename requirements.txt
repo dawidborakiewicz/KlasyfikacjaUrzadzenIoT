@@ -1,0 +1,16 @@
+gradio==6.4.0
+mlflow==3.8.1
+mlflow_skinny==3.8.1
+mlflow_tracing==3.8.1
+numpy==2.4.1
+pandas==3.0.0
+prefect==3.6.13
+scikit_learn==1.8.0
+SQLAlchemy==2.0.46
+tqdm==4.67.1
+tqdm_joblib==0.0.5
+-e git+https://github.com/dawidborakiewicz/KlasyfikacjaUrzadzenIoT.git@34708846feb97c6560bc1bb578162735f2388402#egg=SVCTraining&subdirectory=svctrainingpipelinebv2
+-e git+https://github.com/dawidborakiewicz/KlasyfikacjaUrzadzenIoT.git@34708846feb97c6560bc1bb578162735f2388402#egg=RFTraining&subdirectory=rf-training-pipeline
+-e git+https://github.com/dawidborakiewicz/KlasyfikacjaUrzadzenIoT.git@34708846feb97c6560bc1bb578162735f2388402#egg=pcapflowexporterv2&subdirectory=pcapflowexporterv2
+-e git+https://github.com/dawidborakiewicz/KlasyfikacjaUrzadzenIoT.git@34708846feb97c6560bc1bb578162735f2388402#egg=inference_pipline&subdirectory=inference-pipeline
+-e git+https://github.com/dawidborakiewicz/KlasyfikacjaUrzadzenIoT.git@34708846feb97c6560bc1bb578162735f2388402#egg=data_preparation&subdirectory=data-preparation
